@@ -1,0 +1,1 @@
+[c53baf536db6ec4ec9ca7c8f6afc53c0e2f6ed6e](https://github.com/insolar/assured-ledger/commit/c53baf536db6ec4ec9ca7c8f6afc53c0e2f6ed6e) imported from [assured-ledger](https://github.com/insolar/assured-ledger)
